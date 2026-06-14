@@ -1,0 +1,41 @@
+# Build folders
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+CMakeLists.txt.user
+
+# Compiled objects
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.a
+*.pdb
+*.ilk
+*.exp
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional dependency managers
+vcpkg_installed/
+conan/
+
+# Extra build folders
+bin/
+obj/
